@@ -1,0 +1,27 @@
+*,                                                                         
+.aboutmehtml {                                                  
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.bodyaboutme {
+    min-height: 100%;
+}
+
+.divbodyaboutme {
+    overflow: auto;
+    padding-bottom: 100px;
+}
+
+.footeraboutme {
+    background-color: rgb(44, 40, 40);
+
+}
+
+.divteraboutme {
+    color: rgb(174, 169, 171);
+    position: relative;
+    margin-top: -100px;
+    clear: both;
+}
